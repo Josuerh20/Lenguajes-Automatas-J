@@ -1,4 +1,5 @@
 # Tarea 1.1. Historia y evolución de La Teoría de Autómatas y Lenguajes Formales
+## Cuadro comparativo de los principales investigadores que sustentaron la Teoría de Autómatas
 
 |   Investigador     |             Aportes                  |    Año       |
 |:-------------------|:-------------------------------------|:-------------|
