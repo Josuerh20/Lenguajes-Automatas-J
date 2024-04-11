@@ -6,7 +6,7 @@ Este repositorio contiene tareas y materiales relacionados con el curso de Lengu
 ## Tareas
 El repositorio está organizado en seis carpetas correspondientes a cada uno de los temas del curso:
 
-- [Tareas Tema 1](https://github.com/RodolfoBaume/LenguajesAutomatas/tree/main/Tema1)
+- [Tareas Tema 1](https://github.com/Josuerh20/Lenguajes-Automatas-J/tree/master/Tareas)
 - [Tareas Tema 2](https://github.com/Josuerh20/Lenguajes-Automatas-J/tree/master/Tareas%20Tema%202)
 - [Tareas Tema 3](tareas_tema_3)
 - [Tareas Tema 4](tareas_tema_4)
