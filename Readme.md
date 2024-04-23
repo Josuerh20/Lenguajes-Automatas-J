@@ -8,7 +8,7 @@ El repositorio está organizado en seis carpetas correspondientes a cada uno de 
 
 - [Tareas Tema 1](https://github.com/Josuerh20/Lenguajes-Automatas-J/tree/master/Tareas)
 - [Tareas Tema 2](https://github.com/Josuerh20/Lenguajes-Automatas-J/tree/master/Tareas%20Tema%202)
-- [Tareas Tema 3](tareas_tema_3)
+- [Tareas Tema 3](https://github.com/Josuerh20/Lenguajes-Automatas-J/tree/master/Tareas%20Tema%203)
 - [Tareas Tema 4](tareas_tema_4)
 - [Tareas Tema 5](tareas_tema_5)
 - [Tareas Tema 6](tareas_tema_6)
